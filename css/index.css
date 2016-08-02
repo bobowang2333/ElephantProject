@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.hidden {
+    display: none;
+}
+
+.layer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.diagram {
+    min-height: 500px;
+}
